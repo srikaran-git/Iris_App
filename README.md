@@ -11,7 +11,6 @@ The app is built using **Python**, **Scikit-learn**, and **Streamlit**, and depl
 Access the deployed application here:
 
 **App Link:**
-https://irisapp-mubjizlfjmlvczwddoqozn.streamlit.app
 
 ---
 
