@@ -1,9 +1,9 @@
 fastapi
-uvicorn[standard]
+uvicorn
 scikit-learn
 numpy
 pandas
-streamlit
-joblib
 streamlit==1.32.0
+joblib
+requests
 altair==4.2.2
