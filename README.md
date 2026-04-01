@@ -11,7 +11,7 @@ The app is built using **Python**, **Scikit-learn**, and **Streamlit**, and depl
 Access the deployed application here:
 
 **App Link:**
-
+https://irisapp-kbqhfh2h5qkansekkzjzxv.streamlit.app/
 ---
 
 ## 📌 Project Overview
@@ -83,7 +83,7 @@ iris_app
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/iris_app.git
+git clone https://github.com/srikaran-git/Iris_App.git
 ```
 
 Navigate to the project folder:
